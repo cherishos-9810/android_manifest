@@ -122,6 +122,7 @@
   <!-- System -->
   <project path="system/qcom" name="android_system_qcom" remote="lineage" />
   <project path="system/tools/dtbtool" name="android_system_tools_dtbtool" revision="lineage-18.1" remote="lineage" />
+  <project path="system/tools/mkbootimg" name="android_system_tools_mkbootimg" remote="lineage" />
 
   <!-- Tools -->
   <project path="prebuilts/extract-tools" name="android_prebuilts_extract-tools" clone-depth="1" remote="lineage" />
